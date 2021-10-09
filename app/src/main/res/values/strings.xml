@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IndividualProject1</string>
+    <string name="Welcome">Welcome</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="EmailAddressText">Email Address</string>
+    <string name="PasswordText">Password</string>
+    <string name="Register">Register</string>
+    <string name="registerTVBTN">Register</string>
+    <string name="loginTVBTN">Login</string>
+    <string name="DOB">Date of Birth</string>
+    <string name="Hello">"Hello User "</string>
+</resources>
